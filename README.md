@@ -1,1 +1,1 @@
-全省翼销售
+https://raw.githubusercontent.com/zhouhenggithub/QSEsale3/master/clerkSale.ipa
