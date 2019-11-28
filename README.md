@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/zhouhenggithub/QSEsale3/master/clerkSale.ipa
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zhouhenggithub/QSEsale3/master/manifest.plist
